@@ -1,4 +1,4 @@
-# datascience
+# data-science
 Repository for studies, experiments, competitions and projects with public data.
 
 ## 1. Predicting Potential Diabetes Cases
