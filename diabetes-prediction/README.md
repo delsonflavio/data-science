@@ -14,10 +14,14 @@ This project applies a data-driven methodology to create a predictive model to e
 The [dataset](data/README.md) contains diagnostic measurements that are associated with diabetes, which were collected from a population of Pima Indian women. The data includes various medical and demographic attributes, making it a well-rounded resource for predictive modeling.
 
 ## Tools
-- Python, Pandas
+- Python, Pandas, Numpy
 - Matplotlib, seaborn
+- sklearn
 
 ## Conclusion
+
+The classification model was evaluated with an accuracy of 80% and precision of 79%. In addition to the tests, the model was applied to a specific case of an individual.
+
 In the case provided, the model identified a 54% probability of the individual having diabetes, according to the model's estimate.
 
 We can also state that the applied DecisionTreeClassifier model is quite accurate and can predict whether an individual has diabetes with an precision rate of 78%.
